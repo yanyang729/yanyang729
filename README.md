@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yang-yang-105344aa/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://yanyang729.github.io/)
 
-Yang is a self-motivated, self-taught, and easygoing person fascinated by technological trends & big ideas and always happy & exciting to jump on the next project.
+Yang is a self-motivated, self-taught, and easygoing person fascinated by technological trends & big ideas and always happy & exciting to jump on another project.
 
 **A bit about myself:**
 
