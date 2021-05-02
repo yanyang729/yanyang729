@@ -5,7 +5,7 @@
 
 Yang is a self-motivated, self-taught, and easygoing person fascinated by technological trends & big ideas and always happy & exciting to jump on the next project.
 
-**Talking about Personal Stuffs:**
+**A bit about myself:**
 
 - 👨🏻‍💻 I’m currently working at the field of Data Engineering and Machine Learning
 - 🚀 I’m currently learning some Golang
@@ -20,5 +20,4 @@ Yang is a self-motivated, self-taught, and easygoing person fascinated by techno
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yanyang729&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanyang729&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
