@@ -9,10 +9,10 @@ Yang is a self-motivated, self-taught, and easygoing person fascinated by techno
 
 - 👨🏻‍💻 I’m currently working at the field of Data Engineering and Machine Learning
 - 🚀 I’m currently learning some Golang
-- 💬 Ask me about anything, I am happy to help
 - 📝 I regulary code on [Leetcode](https://leetcode.com/yangyang729/)
 - 📫 How to reach me: yyang4bc@gmail.com
-- 📝 [Resume](https://github.com/yanyang729/resume/blob/master/resume%20Yang%20Yang.pdf)
+- 📝 [My resume](https://github.com/yanyang729/resume/blob/master/resume%20Yang%20Yang.pdf)
+- 💬 Ask me about anything, I am happy to help
 
 </br>
 
