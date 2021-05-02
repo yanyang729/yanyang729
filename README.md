@@ -11,7 +11,6 @@ Yang is a self-motivated, self-taught, and easygoing person fascinated by techno
 - 🚀 I’m currently learning some Golang
 - 📝 I regularly code on [Leetcode](https://leetcode.com/yangyang729/)
 - 📫 How to reach me: yyang4bc@gmail.com
-- 📝 [My resume](https://github.com/yanyang729/resume/blob/master/resume%20Yang%20Yang.pdf)
 - 💬 Ask me about anything, I am happy to help
 
 </br>
