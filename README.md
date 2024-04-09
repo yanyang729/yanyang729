@@ -7,8 +7,7 @@ Yang is a self-motivated, self-taught, and easygoing person fascinated by techno
 
 **A bit about myself:**
 
-- 👨🏻‍💻 I’m currently working at the field of Data Engineering and Machine Learning
-- 🚀 I’m currently learning some Golang
+- 🚀 I write Golang, Python and Javascript
 - 📝 I regularly code on [Leetcode](https://leetcode.com/yangyang729/)
 - 📫 How to reach me: yyang4bc@gmail.com
 - 💬 Ask me about anything, I am happy to help
